@@ -16,16 +16,41 @@ body {
 /* Externas */
 
 /* Container */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+    height: 380px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 8px;
+}
 /* Container */
 
 /* Imagem */
+.desktop-perfume-image {
+    width: 280px;
+    height: 100%;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+}
 /* Imagem */
 
+/* Texto */
+.text {
+    padding: 20px;
+    text-align: left;
+}
+/* Texto */
+
 /* Titulos */
+h1 {
+    
+}
 /* Titulos */
 
-/* Paragrafo */
-/* Paragrafo */
+/* Parágrafo */
+/* Parágrafo */
 
 /* Preço */
 /* Preço */
