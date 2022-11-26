@@ -30,8 +30,12 @@ body {
 /* Container */
 
 /* Imagem */
+.imagem-perfume {
+    height: 380px;
+}
+
 .desktop-imagem-perfume {
-    width: 280px;
+    width: 260px;
     height: 100%;
     border-bottom-left-radius: 8px;
     border-top-left-radius: 8px;
@@ -96,7 +100,7 @@ h3 {
     padding: 7px 0;
     border: none;
     border-radius: 5px;
-    background-color: hsla(158, 30%, 39%, 0.486);
+    background-color: hsla(158, 30%, 39%, 0.842);
     color: hsl(0, 0%, 100%);
     font-family: 'Montserrat', sans-serif;
     cursor: pointer;
@@ -104,13 +108,13 @@ h3 {
 }
 
 .btn:hover {
-   background-color: hsl(158, 36%, 39%);
+   background-color: hsl(158, 49%, 36%);
 }
 
 .btn:active {
     transform: translateY(1px);
     box-shadow: none;
-    background-color: hsl(212, 21%, 14%);
+    background-color: hsl(158, 63%, 25%);
 }
 /* Botão */
 
